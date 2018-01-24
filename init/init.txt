@@ -1,3 +1,2 @@
 1.≥ı ºªØgithub
 2.create a init repository
-3.push to repository
